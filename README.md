@@ -61,7 +61,7 @@ Once the app is running, you can switch between **File Upload** mode to process 
 ## 📂 Project Structure
 
 ```text
-├── all_models/        # Directory for downloaded model weights (YOLO/TensorFlow/Custom Trained Model (Refer .ipynb file in the repo)
+├── all_models/        # Directory for downloaded model weights (YOLO/TensorFlow/Custom Trained Model-.ipynb file in the repo)
 ├── app.py             # Streamlit web application
 ├── Senior_Citizen_Working.ipynb # Research and data analysis notebook
 ├── requirements.txt   # Python dependencies
