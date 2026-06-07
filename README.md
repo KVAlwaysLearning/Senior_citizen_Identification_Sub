@@ -1,9 +1,3 @@
-To create an effective `README.md` for your GitHub repository, you should focus on clearly explaining what the project does, how to set it up, and how to use it.
-
-Below is a template customized for your project.
-
----
-
 # Senior Citizen Identification System
 
 A comprehensive solution to detect individuals in a video or real-time webcam feed, predict their age and gender, identify senior citizens (age > 60), and log visit details.
