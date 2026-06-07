@@ -16,7 +16,7 @@ A comprehensive solution to detect individuals in a video or real-time webcam fe
 * **Video/Live Analysis**: Supports both pre-recorded video file uploads and real-time webcam snapshots via Streamlit.
 * **Data Logging**: Built to facilitate the storage of age, gender, and visit timestamps.
 
-## 🛠️ Setup & Installation
+## 🔧 Setup & Installation
 
 ### 1. Prerequisites
 
