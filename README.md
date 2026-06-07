@@ -67,10 +67,6 @@ Once the app is running, you can switch between **File Upload** mode to process 
 
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 🔗 Links
 
 * **Live App**: [Senior Citizen Identification App](https://seniorcitizenidentificationsub-app.streamlit.app/)
@@ -78,12 +74,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-### Tips for your README:
 
-1. **Requirements File**: Since your `app.py` uses libraries like `ultralytics`, `transformers`, `tensorflow`, and `opencv-python`, ensure your `requirements.txt` is updated so that `pip install -r requirements.txt` works seamlessly for others.
-2. **Visuals**: Adding a GIF or screenshot of the app detecting a senior citizen in the live webcam tab would be highly effective for demonstrating the project's utility.
-
-Visuals: 
+**Visuals:** 
 
 <img width="1366" height="563" alt="App2" src="https://github.com/user-attachments/assets/dacd0ca0-cebb-4d2d-a429-5a80c749f4ab" />
 <img width="1284" height="852" alt="App1" src="https://github.com/user-attachments/assets/586d3e19-b337-463d-9f0f-22a931435902" />
