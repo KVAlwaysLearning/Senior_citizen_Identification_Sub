@@ -7,7 +7,7 @@ A comprehensive solution to detect individuals in a video or real-time webcam fe
 * **`Senior_Citizen_Working.ipynb`**: The Jupyter notebook containing the research, data exploration, model training, and evaluation workflow.
 * **`app.py`**: A Streamlit web application providing a user-friendly interface for video and webcam-based face analysis.
 * **`requirements.txt`**: All the required modules to run app.py and load models
-* * **`packages.txt`**: All the required packages for running app on streamlit-hub
+* **`packages.txt`**: All the required packages for running app on streamlit-hub
 
 ## 🚀 Features
 
